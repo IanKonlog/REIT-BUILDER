@@ -81,7 +81,7 @@ Windows:
 - Navigate to frontend > src > my-trainer
 - Make sure you have Node installed on your system 
   - if not you can install Node by following this tutorial -> https://nodejs.dev/en/
-- Run npm install
+- Run `npm install`
 
 ## 5. Running the application
 
