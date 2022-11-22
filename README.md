@@ -1,4 +1,5 @@
-# REIT-BUILDER
+# REIT-BUILDER Instructions to run locally
+
 ## 1. Setting up the database
 
 Mac:
